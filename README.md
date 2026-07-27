@@ -1,4 +1,4 @@
-# Joan · Laboratorio de Límites y Continuidad
+# Rafael · Laboratorio de Límites y Continuidad
 
 Aplicativo interactivo para repasar límites y continuidad en 2º de Bachillerato.
 
